@@ -24,7 +24,6 @@ intruzach.
 %build
 %{__cc} %{rpmcflags} %{rpmldflags} -o ss ss.c
 
-gzip -9nf README* Copyright
 
 %install
 rm -rf $RPM_BUILD_ROOT
@@ -37,5 +36,5 @@ rm -rf $RPM_BUILD_ROOT
 
 %files
 %defattr(644,root,root,755)
-%doc *.gz
+%doc README* Copyright
 %attr(755,root,root) %{_sbindir}/*
