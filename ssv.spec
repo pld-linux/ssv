@@ -6,6 +6,7 @@ Release:	1
 Group:		Networking/Admin
 License:	GPL (?)
 Source0:	http://www.team.com.pl/arkth/%{name}1-1.tar.gz
+# Source0-md5:	4ed69bf54b13f5d7ed44d6d3bf807ef8
 URL:		http://www.team.com.pl/arkth/
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
