@@ -1,5 +1,5 @@
 Summary:	Session Sniffer - help in monitoring users behavior
-Summary(pl.UTF-8):   Session Sniffer - pomoc przy monitorowaniu zachowania użytkowników
+Summary(pl.UTF-8):	Session Sniffer - pomoc przy monitorowaniu zachowania użytkowników
 Name:		ssv
 Version:	1.1
 Release:	1
