@@ -1,5 +1,5 @@
 Summary:	Session Sniffer - help in monitoring users behavior
-Summary(pl):	Session Sniffer - pomoc przy monitorowaniu zachowania u¿ytkowników
+Summary(pl.UTF-8):   Session Sniffer - pomoc przy monitorowaniu zachowania uÅ¼ytkownikÃ³w
 Name:		ssv
 Version:	1.1
 Release:	1
@@ -14,9 +14,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Session Sniffer is a tool to help in monitoring users behavior. It can
 be also usefull in gathering information about attacker.
 
-%description -l pl
-Session Sniffer jest narzêdziem pomocnym przy monitorowaniu zachowania
-u¿ytkowników. Mo¿e byæ tak¿e pomocne przy znajdowaniu informacji o
+%description -l pl.UTF-8
+Session Sniffer jest narzÄ™dziem pomocnym przy monitorowaniu zachowania
+uÅ¼ytkownikÃ³w. MoÅ¼e byÄ‡ takÅ¼e pomocne przy znajdowaniu informacji o
 intruzach.
 
 %prep
