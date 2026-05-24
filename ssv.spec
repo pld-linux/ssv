@@ -2,7 +2,7 @@ Summary:	Session Sniffer - help in monitoring users behavior
 Summary(pl.UTF-8):	Session Sniffer - pomoc przy monitorowaniu zachowania użytkowników
 Name:		ssv
 Version:	1.1
-Release:	1
+Release:	2
 Group:		Networking/Admin
 License:	GPL (?)
 Source0:	http://www.team.com.pl/arkth/%{name}1-1.tar.gz
